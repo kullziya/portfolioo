@@ -1,1 +1,1 @@
-print("Hello from Kulziya")
+print("Hello team!")
